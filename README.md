@@ -10,3 +10,9 @@
   - iwlwifi-so-a0-hr-b0-83.ucode
   - iwlwifi-so-a0-hr-b0-84.ucode
   - iwlwifi-so-a0-hr-b0-86.ucode
+- __cisco-anyconnect:__
+  - версия: 4.9.01095
+  - сборка под Debian 12
+  - вызов gui версии: `cisco-anyconnect-ui` (симлинк в `/usr/bin`)
+  - вызов tui версии: `cisco-anyconnect` (симлинк в `/usr/bin`)
+  - устанавливается в `/opt/`
